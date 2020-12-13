@@ -7,7 +7,7 @@ from utils import *
 # Set this variable to False if you want to view a background image
 # and also set the path to your background image
 # Background Image Source: https://pixabay.com/photos/monoliths-clouds-storm-ruins-sky-5793364/
-BLUR = True
+BLUR = False
 BG_PTH = "bg1.jpg"
 
 # Load the DeepLabv3 model to memory
